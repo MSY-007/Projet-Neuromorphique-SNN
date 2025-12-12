@@ -1,0 +1,6 @@
+txt
+streamlit
+torch
+matplotlib
+requests
+norse
