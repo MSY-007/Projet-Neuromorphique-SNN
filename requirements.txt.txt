@@ -4,3 +4,5 @@ torch
 matplotlib
 requests
 norse
+torch==2.2.1
+torchvision==0.17.1
